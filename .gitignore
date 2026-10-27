@@ -1,0 +1,12 @@
+# macOS
+.DS_Store
+
+# Python
+__pycache__/
+*.pyc
+
+# Blender backups
+*.blend1
+
+# Editor
+.vscode/
